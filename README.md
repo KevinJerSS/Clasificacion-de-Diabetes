@@ -27,10 +27,10 @@ Posteriormente, se entrenaron tres modelos de conjunto (ensemble) y se evaluó s
 
 ### Matriz de Confusión
 
-TP (Verdaderos Positivos): 51
-TN (Verdaderos Negativos): 113
-FP (Falsos Positivos): 11
-FN (Falsos Negativos): 17
+- TP (Verdaderos Positivos): 51
+- TN (Verdaderos Negativos): 113
+- FP (Falsos Positivos): 11
+- FN (Falsos Negativos): 17
 
 ## 🏁 Conclusión
 
