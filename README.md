@@ -32,12 +32,6 @@ TN (Verdaderos Negativos): 113
 FP (Falsos Positivos): 11
 FN (Falsos Negativos): 17
 
-## 📈 Evaluación del Modelo
-
-Se utilizó un enfoque basado en aprendizaje automático con PyCaret. Se probaron múltiples algoritmos (Logistic Regression, Random Forest, Gradient Boosting, etc.) y se seleccionó el modelo con el mejor rendimiento basado en métricas clave.
-
-Tras el análisis de datos de dependencia (EDA) y el preprocesamiento, se ejecutaron tres modelos de conjunto y se verificó su rendimiento con el conjunto de datos de validación. El conjunto con votación suave y dura ofreció el mejor resultado para resolver este problema, pero los resultados pueden variar según el preprocesamiento, la selección de los modelos base y la configuración de los hiperparámetros.
-
 ## 🏁 Conclusión
 
 El modelo tiene un alto nivel de precisión, lo que permite minimizar diagnósticos erróneos de diabetes en pacientes sanos. Sin embargo, el recall está por debajo del 95%, lo que indica que aún hay margen de mejora para captar más casos reales de diabetes.
